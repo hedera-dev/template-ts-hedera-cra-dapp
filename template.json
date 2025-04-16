@@ -7,7 +7,7 @@
       "@emotion/react": "11.11.0",
       "@emotion/styled": "11.11.0",
       "@hashgraph/hedera-wallet-connect": "^1.2.0",
-      "@hashgraph/sdk": "2.46.0",
+      "@hashgraph/sdk": "2.61.0",
       "@mui/icons-material": "5.11.16",
       "@mui/material": "5.13.0",
       "dotenv": "16.1.3",
